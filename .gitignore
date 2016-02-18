@@ -1,0 +1,8 @@
+*.o
+ModelTest
+TextureTest
+WindowTest
+LEANTest
+res/Generator
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
