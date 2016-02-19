@@ -6,4 +6,4 @@ before:
 ![before](https://raw.github.com/jkevin1/testbed/master/before.png)  
 
 after:  
-![before](https://raw.github.com/jkevin1/testbed/master/before.png)
+![after](https://raw.github.com/jkevin1/testbed/master/after.png)
